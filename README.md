@@ -40,7 +40,7 @@
           <p> 📫 &emsp; How to reach me: <a href="mailto:jhonnatan@jhaner.com">jhonnatan@jhaner.com</a> </p>
         </div>
         <!-- Icons https://devicon.dev/ -->
-        <h2>Favorite languages ​​to code</h2>
+        <h2>Use To Code</h2>
         <div style="display: inline_block"><br>
           <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
           <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
