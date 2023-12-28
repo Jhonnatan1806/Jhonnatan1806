@@ -37,7 +37,7 @@
         <div>
           <p> ✌️ &emsp; Enjoy to do programming and sharing knowledge </p>
           <p> ❤️ &emsp; Love to writing code and learning new features </p>
-          <p> 📫 &emsp; How to reach me: <a href="mailto:contact@jhaner.com">contact@jhaner.com</a> </p>
+          <p> 📫 &emsp; How to reach me: <a href="mailto:jhonnatan@jhaner.com">jhonnatan@jhaner.com</a> </p>
         </div>
         <!-- Icons https://devicon.dev/ -->
         <h2>Use To Code</h2>
