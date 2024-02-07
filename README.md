@@ -43,7 +43,7 @@
         <h2>Use To Code</h2>
         <div style="display: inline_block"><br>
           <img align="center" alt="NextJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg" />
-          <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react-original.svg">
+          <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg">
           <img align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg">
           <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg">
           <img align="center" alt="Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-plain.svg">
